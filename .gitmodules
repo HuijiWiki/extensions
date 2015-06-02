@@ -476,7 +476,7 @@
 	branch = .
 [submodule "Contributors"]
 	path = Contributors
-	url = https://github.com/HuijiWiki/mediawiki-extensions-Contributors.git
+	url = https://github.com/HuijiWiki/Contributors.git
 	branch = .
 [submodule "ContributorsAddon"]
 	path = ContributorsAddon
