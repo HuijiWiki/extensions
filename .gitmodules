@@ -392,7 +392,7 @@
 	branch = .
 [submodule "Comments"]
 	path = Comments
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Comments.git
+	url = https://github.com/HuijiWiki/mediawiki-extensions-Comments.git
 	branch = .
 [submodule "CommonMessages"]
 	path = CommonMessages
@@ -472,7 +472,7 @@
 	branch = .
 [submodule "Contributors"]
 	path = Contributors
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Contributors.git
+	url = https://github.com/HuijiWiki/mediawiki-extensions-Contributors.git
 	branch = .
 [submodule "ContributorsAddon"]
 	path = ContributorsAddon
@@ -2284,7 +2284,7 @@
 	branch = .
 [submodule "SocialProfile"]
 	path = SocialProfile
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SocialProfile.git
+	url = https://github.com/HuijiWiki/SocialProfile.git
 	branch = .
 [submodule "SoftwareVersion"]
 	path = SoftwareVersion
