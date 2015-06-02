@@ -220,7 +220,7 @@
 	branch = .
 [submodule "BlueSpiceExtensions"]
 	path = BlueSpiceExtensions
-	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BlueSpiceExtensions.git
+	url = https://github.com/wikimedia/mediawiki-extensions-BlueSpiceExtensions.git
 	branch = .
 [submodule "BlueSpiceFoundation"]
 	path = BlueSpiceFoundation
@@ -277,6 +277,10 @@
 [submodule "Carp"]
 	path = Carp
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Carp.git
+	branch = .
+[submodule "CategoryBlueLinks"]
+	path = CategoryBlueLinks
+	url = https://github.com/HuijiWiki/CategoryBlueLinks.git
 	branch = .
 [submodule "CategorySlideShow"]
 	path = CategorySlideShow
@@ -1886,6 +1890,10 @@
 	path = RandomRootPage
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RandomRootPage.git
 	branch = .
+[submodule "RandomSelection"]
+	path = RandomSelection
+	url = https://github.com/Inclumedia/RandomSelection.git
+	branch = .
 [submodule "RandomUsersWithAvatars"]
 	path = RandomUsersWithAvatars
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/RandomUsersWithAvatars.git
@@ -2637,6 +2645,10 @@
 [submodule "Variables"]
 	path = Variables
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Variables.git
+	branch = .
+[submodule "Verbatim"]
+	path = Verbatim
+	url = https://github.com/HuijiWiki/Verbatim.git
 	branch = .
 [submodule "Vector"]
 	path = Vector
